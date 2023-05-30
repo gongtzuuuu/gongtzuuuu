@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/tyliang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tyliang/" height="30" width="30" /></a>
 <a href="https://www.instagram.com/liangtzuyunn09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/liangtzuyunn09/" height="30" width="30" /></a>
-<a href="https://medium.com/@lazynote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@lazynote" height="30" width="30" /></a>
+<a href="https://medium.com/@gongtzuuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@lazynote" height="30" width="30" /></a>
 </p>
 
 <h4 align="left">≡≡≡≡≡≡ Web Development ≡≡≡≡≡≡</h4>
