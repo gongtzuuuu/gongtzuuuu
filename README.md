@@ -2,6 +2,9 @@
 <p>I am a highly motivated web developer who is committed to good working knowledge and the ability to learn new technology quickly, with a background in project management that possesses a high degree of problem-solving and teamwork skills.</p>
 <br>
 <h4 align="left">≡≡≡≡≡≡ Highlight Projects ≡≡≡≡≡≡</h4>
+👧  My personal website: [tzuyun.dev](https://tzuyun.dev/)
+<br>
+<h4 align="left">≡≡≡≡≡≡ Highlight Projects ≡≡≡≡≡≡</h4>
 
 ✈️  The project I worked with Panthari & Solen: [GluttonGlobe](https://bejewelled-alfajores-c72f6e.netlify.app/)
 
