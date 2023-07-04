@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tzu-Yun ʕ•͡ᴥ•ʔ</h1>
 <p>I am a highly motivated web developer who is committed to good working knowledge and the ability to learn new technology quickly, with a background in project management that possesses a high degree of problem-solving and teamwork skills.</p>
 <br>
-<h4 align="left">≡≡≡≡≡≡ Highlight Projects ≡≡≡≡≡≡</h4>
+<h4 align="left">≡≡≡≡≡≡ Personal Website ≡≡≡≡≡≡</h4>
 👧  My personal website: https://tzuyun.dev
 <br>
 <h4 align="left">≡≡≡≡≡≡ Highlight Projects ≡≡≡≡≡≡</h4>
