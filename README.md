@@ -2,7 +2,7 @@
 <p>I am a highly motivated web developer who is committed to good working knowledge and the ability to learn new technology quickly, with a background in project management that possesses a high degree of problem-solving and teamwork skills.</p>
 <br>
 <h4 align="left">≡≡≡≡≡≡ Highlight Projects ≡≡≡≡≡≡</h4>
-👧  My personal website: [tzuyun.dev](https://tzuyun.dev/)
+👧  My personal website: https://tzuyun.dev
 <br>
 <h4 align="left">≡≡≡≡≡≡ Highlight Projects ≡≡≡≡≡≡</h4>
 
