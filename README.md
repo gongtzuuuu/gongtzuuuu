@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tzu-Yun ʕ•͡ᴥ•ʔ</h1>
-<p>I am a highly motivated web developer who is committed to good working knowledge and the ability to learn new technology quickly, with a background in project management that possesses a high degree of problem-solving and teamwork skills.</p>
+<p>I specialise in collaborating with cross-functional teams, including backend developers, UI/UX designers, and stakeholders, to deliver high-quality software solutions. My expertise includes Next.js, React, TypeScript, JavaScript, CSS, HTML, UI/UX design, and other relevant necessary skills.</p>
 <br>
 <h4 align="left">≡≡≡≡≡≡  Personal Website  ≡≡≡≡≡≡</h4>
 🚀  My personal website: https://tzuyun.dev
