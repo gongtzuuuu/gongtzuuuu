@@ -2,7 +2,7 @@
 <p>I specialise in collaborating with cross-functional teams, including backend developers, UI/UX designers, and stakeholders, to deliver high-quality software solutions. My expertise includes Next.js, React, TypeScript, JavaScript, CSS, HTML, UI/UX design, and other relevant necessary skills.</p>
 <br>
 <h4 align="left">≡≡≡≡≡≡  Personal Website  ≡≡≡≡≡≡</h4>
-🚀  My personal website: https://tzuyun.dev
+🚀  My personal website: https://tzu-yun.dev
 
 <br>
 <h4 align="left">≡≡≡≡≡≡  Highlight Projects  ≡≡≡≡≡≡</h4>
