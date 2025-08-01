@@ -11,11 +11,9 @@ I'm a software engineer who loves delivering high-quality digital solutions.
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
+- 👨‍💻 Nextjs, React, TypeScript, JavaScript, etc...
 
-- ⚙️ Nextjs, React
-
-- 👁️ SASS, CSS, Tailwind
+- 👁️ CSS, SASS, Tailwind, ShadCn
 
 - 💽 MongoDB
 
